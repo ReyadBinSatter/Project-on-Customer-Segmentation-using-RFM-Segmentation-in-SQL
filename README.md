@@ -1,0 +1,1 @@
+# Project-on-Customer-Segmentation-using-RFM-Segmentation-in-SQL
