@@ -26,7 +26,7 @@ This project demonstrates:
 ## Installation
 **Prerequisites**:
    - MySQL Server 8.0+
-   - [Sample Dataset](Superstore_Sales_Data.csv)
+   - [Sample Dataset](Superstore Sales Data.csv)
 
 
 ## Key Results
